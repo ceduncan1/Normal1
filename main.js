@@ -45,7 +45,9 @@ var avg = function(num1, num2, num3) {
 // Q3
 // Write a function called `getLength` that takes one
 // parameter (a string) and returns the length
-
+ var getLength = function (myString) {
+  return myString.length
+ }
 
 
 
